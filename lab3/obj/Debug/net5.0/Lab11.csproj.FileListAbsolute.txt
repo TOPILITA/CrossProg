@@ -1,0 +1,32 @@
+C:\Users\Айнур\source\repos\Lab11\bin\Debug\net5.0\Lab11.exe
+C:\Users\Айнур\source\repos\Lab11\bin\Debug\net5.0\Lab11.deps.json
+C:\Users\Айнур\source\repos\Lab11\bin\Debug\net5.0\Lab11.runtimeconfig.json
+C:\Users\Айнур\source\repos\Lab11\bin\Debug\net5.0\Lab11.runtimeconfig.dev.json
+C:\Users\Айнур\source\repos\Lab11\bin\Debug\net5.0\Lab11.dll
+C:\Users\Айнур\source\repos\Lab11\bin\Debug\net5.0\ref\Lab11.dll
+C:\Users\Айнур\source\repos\Lab11\bin\Debug\net5.0\Lab11.pdb
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\Lab11.csprojAssemblyReference.cache
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\Lab11.AssemblyInfoInputs.cache
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\Lab11.AssemblyInfo.cs
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\Lab11.dll
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\ref\Lab11.dll
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\Lab11.pdb
+C:\Users\Айнур\source\repos\Lab11\obj\Debug\net5.0\Lab11.genruntimeconfig.cache
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\bin\Debug\net5.0\Lab11.exe
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\bin\Debug\net5.0\Lab11.deps.json
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\bin\Debug\net5.0\Lab11.runtimeconfig.json
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\bin\Debug\net5.0\Lab11.runtimeconfig.dev.json
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\bin\Debug\net5.0\Lab11.dll
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\bin\Debug\net5.0\ref\Lab11.dll
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\bin\Debug\net5.0\Lab11.pdb
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\Lab11.csproj.AssemblyReference.cache
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\Lab11.AssemblyInfoInputs.cache
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\Lab11.AssemblyInfo.cs
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\Lab11.dll
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\ref\Lab11.dll
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\Lab11.pdb
+C:\Users\My Dell\Downloads\Telegram Desktop\2.Кросплатформне програмування (Бражиненко М.Г.)\Lab11\Lab11\obj\Debug\net5.0\Lab11.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9UAcmFNqClhE/ejs2AT+rxPybJ7JERF2oDfzTDIj7sLOm2Cff+qFoM9d2Dr+BgmctBkHLB/tya6vQqyPKTSmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\My Dell\\Downloads\\Telegram Desktop\\2.Кросплатформне програмування (Бражиненко М.Г.)\\Lab11\\Lab11\\Lab11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\My Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\My Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\My Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
