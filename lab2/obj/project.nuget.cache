@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0mWv1+iL6fZ1Qf4D/Q31JRl2CDvVLnAcZWAnNNsPWW68TBGBW0XhLED/qHRoQ9OpAZoJwC09X2An5Ufplfys+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\My Dell\\Desktop\\LabWorks\\lab2\\lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\My Dell\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.0\\mcmaster.extensions.commandlineutils.4.0.0.nupkg.sha512",
+    "C:\\Users\\My Dell\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
