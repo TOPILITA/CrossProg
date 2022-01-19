@@ -1,0 +1,8 @@
+C:\Users\Айнур\Documents\FreelanceTasks\CSharp\ControlLabNetFramework\ControlLabNetFramework\bin\Debug\ControlLabNetFramework.exe.config
+C:\Users\Айнур\Documents\FreelanceTasks\CSharp\ControlLabNetFramework\ControlLabNetFramework\bin\Debug\ControlLabNetFramework.exe
+C:\Users\Айнур\Documents\FreelanceTasks\CSharp\ControlLabNetFramework\ControlLabNetFramework\bin\Debug\ControlLabNetFramework.pdb
+C:\Users\Айнур\Documents\FreelanceTasks\CSharp\ControlLabNetFramework\ControlLabNetFramework\obj\Debug\ControlLabNetFramework.csproj.AssemblyReference.cache
+C:\Users\Айнур\Documents\FreelanceTasks\CSharp\ControlLabNetFramework\ControlLabNetFramework\obj\Debug\ControlLabNetFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Айнур\Documents\FreelanceTasks\CSharp\ControlLabNetFramework\ControlLabNetFramework\obj\Debug\ControlLabNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Айнур\Documents\FreelanceTasks\CSharp\ControlLabNetFramework\ControlLabNetFramework\obj\Debug\ControlLabNetFramework.exe
+C:\Users\Айнур\Documents\FreelanceTasks\CSharp\ControlLabNetFramework\ControlLabNetFramework\obj\Debug\ControlLabNetFramework.pdb
